@@ -1,0 +1,29 @@
+{
+  "name": "piHomeAutoControl",
+  "homepage": "https://github.com/x-firm/piHomeAutoControl/",
+  "author": {
+    "name": "Patrik Olsson",
+    "url": "http://www.x-firm.com"
+  },
+  "description": "A generisk control class for piHomeAuto",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/x-firm/piHomeAutoControl.git"
+  },
+  "main": "piHomeAutoControl",
+  "dependencies": {
+    "piHomeAutoConfig": "https://github.com/x-firm/piHomeAutoConfig/tarball/master",
+    "tdtool-js": "https://github.com/x-firm/tdtool-js/tarball/master"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://rem.mit-license.org"
+    }
+  ],
+  "_id": "tdtool-js@0.0.1",
+  "dist": {
+    "shasum": "8b95ad08cb912e4d2c96d71591e6cc2a9679e980"
+  }
+}
