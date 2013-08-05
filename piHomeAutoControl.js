@@ -13,7 +13,7 @@ function control () {
 
  	this.units = units;
 
- 	this.control = controll.groups;
+ 	this.groups = controll.groups;
 
  	this.setGroup = function(callback, data){
  		// Go true all device and change there value
